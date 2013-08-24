@@ -1,0 +1,15 @@
+{
+    "name": "hugoleodev/phprio-talks-2013",
+    "description": "Projeto da palestra: \"Tarefa dada é tarefa cumprida. Gerenciamento de tarefas com PHP, Gearman e Supervisor.\"",
+    "require": {
+        "silex/silex": "1.*",
+        "symfony/console": "2.4.*@dev"
+    },
+    "authors": [
+        {
+            "name": "Hugo Leonardo C. Silva",
+            "email": "hugoleodev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
